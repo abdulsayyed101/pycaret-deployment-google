@@ -7,7 +7,7 @@
 - Create clusters and deploy machine learning pipeline with Flask app as a web service.
 - See a web app in action that uses a trained machine learning pipeline to predict on new data points in real-time.
 
-Read the complete post: https://medium.com/@moez_62905/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
+Read complete post: https://medium.com/@moez_62905/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
 
 - Official : https://www.pycaret.org
 
